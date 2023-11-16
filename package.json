@@ -1,0 +1,17 @@
+{
+  "name": "node_homeworks",
+  "version": "1.0.0",
+  "description": "Node.JS Homeworks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denys Muratov",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "yargs": "^17.7.2"
+  }
+}
